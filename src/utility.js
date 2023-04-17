@@ -1,0 +1,7 @@
+export function sum (a, b) {
+    return a + b;
+}
+export const imeAplikacije = "moja prva aplikacija";
+export const pi = 3.14159;
+export const num = 5;
+export const num2 = 25;
